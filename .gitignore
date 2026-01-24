@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Cache
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Test/Demo artifacts
+demo_*.csv
+demo_*.json
+*_backup.json
+*_report.txt
+
+# Task management
+.zenflow/

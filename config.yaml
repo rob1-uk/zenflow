@@ -1,0 +1,37 @@
+database:
+  path: "zenflow.db"
+
+gamification:
+  xp_per_level: 1000
+  task_xp:
+    low: 10
+    medium: 25
+    high: 50
+  habit_milestone_xp:
+    7: 25
+    30: 100
+    100: 500
+  focus_xp: 15
+
+focus:
+  default_duration: 25
+  break_duration: 5
+  long_break_duration: 15
+
+ai:
+  enabled: false
+  provider: "openai"
+  model: "gpt-4"
+
+ui:
+  theme: "default"
+  color_scheme:
+    success: "green"
+    warning: "yellow"
+    error: "red"
+    info: "cyan"
+    primary: "blue"
+
+logging:
+  level: "INFO"
+  file: "zenflow.log"
